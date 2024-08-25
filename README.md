@@ -65,7 +65,7 @@ When not working on a project or thinking about coding, I am most likely playing
   <img src="https://github-profile-trophy.vercel.app/?username=adnanhashmii&row=1&column=7">
 </p>
 
-<img align="right" alt="img" src="Gallery.html/Adnan White Background.jpg" width="auto%" height="auto" />
+<img align="right" alt="img" src="D:\IMAGES" width="auto%" height="auto" />
 
 
 📕 **Latest Featured Posts**
