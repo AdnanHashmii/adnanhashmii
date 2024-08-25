@@ -17,7 +17,7 @@
 
 Here are some ideas to get you started:
 -->
-[Web Developer](https://Adnan.com), [Open-source contributor](https://github.com/adnanhashmii), and [Digital Designer](https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/) based in Islamabad, Pakistan. Currently pursuing my BS in Information Technology at NUML University Islamabad, I am passionate about design thinking, web technologies, and making the web accessible to everyone. My work focuses on creating user-friendly, responsive web applications that combine aesthetic design with robust functionality.
+I'm a [Web Developer](https://Adnan.com), [Open-source contributor](https://github.com/adnanhashmii), and [Digital Designer](https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/) based in Islamabad, Pakistan. Currently pursuing my BS in Information Technology at NUML University Islamabad, I am passionate about design thinking, web technologies, and making the web accessible to everyone. My work focuses on creating user-friendly, responsive web applications that combine aesthetic design with robust functionality.
 
 When not working on a project or thinking about coding, I am most likely playing cricket, football, or chess, or spending time with my family and friends.
 
