@@ -35,7 +35,7 @@ When not working on a project or thinking about coding, I am most likely playing
 - ⚡ Fun fact: I play Games (Cricket, Football, and Chess)
 
 <a href="https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhashmii&layout=compact&theme=radical" align="right" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhashmii&layout=compact&theme=radical" align="center" width="350">
 </a>
 
 
