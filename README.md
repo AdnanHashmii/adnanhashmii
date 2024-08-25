@@ -38,7 +38,7 @@ When not working on a project or thinking about coding, I am most likely playing
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhashmii&layout=compact&theme=radical" align="right" width="350">
 </a>
 <a href="https://github.com/AdnanHashmii?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanhashmii&count_private=true&show_icons=true&theme=radical" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanhashmii&count_private=true&show_icons=true&theme=radical" width="370">
 </a>
 
 **Languages and Tools:**  
