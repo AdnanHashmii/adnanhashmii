@@ -1,11 +1,11 @@
 <h1 align="center">
+<img src="Gallery.html/Navy Blue Geometric Technology LinkedIn Banner.png" alt="Banner">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Adnan+Hashmi!;" />
 </h1>
 <p align="center">
   <a href="https://Adnan.com">Website</a> •
   <a href="www.linkedin.com/in/adnan-ud-din-5ab1772bb/">LinkedIn</a> •
   <a href="https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/">Portfolio</a> •
-
   <!-- <a href="http://behance.net/sosarenaint">Behance</a> -->
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanhashmii&label=Profile%20views&color=0e75b6&style=flat" alt="adnanhashmii" /> </p>
