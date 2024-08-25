@@ -34,10 +34,12 @@ When not working on a project or thinking about coding, I am most likely playing
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Games (Cricket, Football, and Chess)
 
-<div style="display: flex; align-items: flex-start;">
-  <a href="https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/" target="_blank" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhashmii&layout=compact&theme=radical" width="350">
-  </a>
+<a href="https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhashmii&layout=compact&theme=radical" align="right" width="350">
+</a>
+<a href="https://github.com/AdnanHashmii?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanhashmii&count_private=true&show_icons=true&theme=radical" width="350">
+</a>
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -58,10 +60,7 @@ When not working on a project or thinking about coding, I am most likely playing
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code> -->
 
-<a href="https://github.com/AdnanHashmii?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=adnanhashmii&count_private=true&show_icons=true&theme=radical" width="350">
-  </a>
-</div>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adnanhashmii&row=1&column=7">
 </p>
