@@ -34,8 +34,8 @@ When not working on a project or thinking about coding, I am most likely playing
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Games (Cricket, Football, and Chess)
 
-<a href="https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhashmii&layout=compact&theme=radical" align="right" length="350" width="350">
+<a href="https://adnanhashmii.github.io/Portfolio_Website_Codealpha_tasks/" target="_blank" style="display: inline-block; vertical-align: top;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhashmii&layout=compact&theme=radical" align="right" width="350" style="display: inline-block;">
 </a>
 
 
@@ -59,10 +59,9 @@ When not working on a project or thinking about coding, I am most likely playing
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code> -->
 
 
-<a href="https://github.com/AdnanHashmii?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanhashmii&count_private=true&show_icons=true&theme=radical" width="350">
+<a href="https://github.com/AdnanHashmii?tab=repositories" target="_blank" style="display: inline-block; vertical-align: top;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanhashmii&count_private=true&show_icons=true&theme=radical" width="350" style="display: inline-block;">
 </a>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adnanhashmii&row=1&column=7">
 </p>
