@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="Gallery.html/Navy Blue Geometric Technology LinkedIn Banner.png" alt="Banner">
+<img src="Gallery.html/linkedin banner update.png" alt="Banner">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Adnan+Hashmi!;" />
 </h1>
 <p align="center">
